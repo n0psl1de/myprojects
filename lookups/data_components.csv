@@ -1,0 +1,45 @@
+data_component
+process creation
+command execution
+script execution
+os api execution
+module load
+file creation
+windows registry key access
+active directory object access
+windows registry key modification
+windows registry key creation
+file modification
+process access
+file access
+active directory object modification
+active directory object creation
+active directory object deletion
+logon session creation
+driver load
+active directory credential request
+network connection creation
+service creation
+host status
+logon session metadata
+user account authentication
+user account creation
+service metadata
+named pipe metadata
+network share access
+drive creation
+file deletion
+firewall metadata
+firewall rule modification
+firewall disable
+windows registry key deletion
+process termination
+drive modification
+scheduled job modification
+wmi creation
+group modification
+user account modification
+process modification
+scheduled job creation
+user account deletion
+group enumeration

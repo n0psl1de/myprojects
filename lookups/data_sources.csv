@@ -1,0 +1,21 @@
+data_source
+Process
+Command
+Script
+Module
+File
+Windows Registry
+Active Directory
+Logon Session
+Driver
+Network Traffic
+Service
+Sensor Health
+User Account
+Named Pipe
+Network Share
+Drive
+Firewall
+Scheduled Job
+WMI
+Group
